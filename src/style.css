@@ -74,6 +74,7 @@
     text-decoration: none;
     text-transform: capitalize;
   }
+
   .secondary-link {
     background: var(--primary-color);
     box-shadow: var(--box-shadow);
